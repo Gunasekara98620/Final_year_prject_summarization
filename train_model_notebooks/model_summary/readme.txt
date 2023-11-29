@@ -1,1 +1,1 @@
-saved model from headline.ipynb 'model.pt'
+saved model as pt file. headline.ipynb > 'model.pt'
